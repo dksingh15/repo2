@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 7824-61B7
+
+ Directory of D:\inetsolv\MyProject
+
+04/02/2019  09:27 AM    <DIR>          .
+04/02/2019  09:27 AM    <DIR>          ..
+04/02/2019  09:27 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  170,251,395,072 bytes free
